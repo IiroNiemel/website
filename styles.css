@@ -30,7 +30,7 @@ margin: 5px 0px 5px 0px;
 margin: auto;
 padding:30px 0px;
 height:130px;
-background-color:rgb(115,16,0);
+background-color:rgb(115,0,0);
 background-image: url("huivi.gif");
 background-repeat: no-repeat;
 background-position:100% -15px;
@@ -47,7 +47,7 @@ max-width:1200px;
 
 .bar {
 margin:  auto;
-background-color:grey;
+background-color:lightgrey;
 height: 80px;
 width: 100%;
 font-family: "Verdana"  ;
@@ -58,7 +58,7 @@ z-index:3;
 
 }
 /*Pikkulogo*/
-¦logop {
+ï¿½logop {
 float:left;
 opacity: 1;
 padding:0px 5px 0px 0px;
@@ -66,7 +66,7 @@ height:75px;
 width:100px;
 }
 
-¦logop:hover {
+ï¿½logop:hover {
 opacity: 0.5;
 filter: alpha(opacity=50);
 }
@@ -77,7 +77,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: ¦333;
+    background-color: ï¿½333;
     height:80px;
 
 }
@@ -98,7 +98,7 @@ li a {
 
 
 li a:hover {
-    background-color: ¦111;
+    background-color: ï¿½111;
 }
 
 /* Valkoinen asiointiruutu */
@@ -112,7 +112,7 @@ background-color:rgba(240, 240, 216, 0.7);
 z-index:-1;
 border: 1px solid;
 padding: 10px;
-box-shadow: 5px 0px 18px 10px ¦888888;
+box-shadow: 5px 0px 18px 10px ï¿½888888;
 margin: 10px 0px 10px 0px;
 
 
